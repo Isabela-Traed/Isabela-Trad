@@ -1,16 +1,24 @@
-### Hi there 👋
+## Olá, eu sou a Isabela
 
-<!--
-**Isabela-Trad/Isabela-Trad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando Banco de Dados, Programação com Java, Java usando Alice3 ...
+- 😄 Pronouns: ela/dela
 
-Here are some ideas to get you started:
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabela-Trad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela-Trad&layout=compact&langs_count=16&theme=dark"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" scr=<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="30" width="40" scr=<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align="center" height="30" width="40" scr=<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="right" height="200" width="200"  src="https://i.picasion.com/pic91/ff77516bb8f55bef7310a1541c29867d.gif">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href="https://instagram.com/bells.karolina" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_black"></a>
+  <a href="https://discord.gg/ZHs49PaT8v" target="_black"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_black"></a>
+  <a href ="https://hotmail.com/isabela-karolina@hotmail.com" target="_black"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_black"></a>
+</div>
