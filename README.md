@@ -22,3 +22,4 @@
   <a href="https://discord.gg/ZHs49PaT8v" target="_black"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_black"></a>
   <a href ="https://hotmail.com/isabela-karolina@hotmail.com" target="_black"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_black"></a>
 </div>
+![Snake animation](https://github.com/Isabela-Trad/Isabela-Trad/blob/output/github-contribution-grid-snake.svg)
