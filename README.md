@@ -1,6 +1,6 @@
 ## Olá, eu sou a Isabela
 
-- 🌱 Estudando Banco de Dados, Programação com Java, Java usando Alice3 ...
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ela/dela
 
 <div>
