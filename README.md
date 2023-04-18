@@ -1,7 +1,6 @@
 ## Olá, eu sou a Isabela
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ela/dela
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabela-Trad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +11,7 @@
   <img align="center" height="30" width="40" scr=<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" scr=<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" height="30" width="40" scr=<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="right" height="200" width="200"  src="https://i.picasion.com/pic91/ff77516bb8f55bef7310a1541c29867d.gif">
+<img align="right" height="150" width="150"  src="https://i.picasion.com/pic91/ff77516bb8f55bef7310a1541c29867d.gif">
 </div>
 
 ##
